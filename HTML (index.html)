@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Phillip Bere - UX/UI Designer & Dispatch Clerk. Explore my portfolio showcasing my skills and projects.">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <title>Phillip Bere - Portfolio</title>
+</head>
+<body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1>Phillip Bere</h1>
+        <h2>UX/UI Designer & Dispatch Clerk</h2>
+        <p>Versatile administrative professional with 10+ years of experience streamlining operations and implementing efficiency-boosting systems across multiple industries.</p>
+        <a href="path/to/your-cv.pdf" class="btn">Download CV</a>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a versatile administrative professional with 10+ years of experience...</p>
+        <ul>
+            <li>Improved organizational productivity by up to 45%</li>
+            <li>Designed mobile app interfaces that increased user engagement</li>
+            <li>Managed critical reporting functions with attention to detail</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Featured Projects</h2>
+        <div class="project">
+            <h3>Pracs Cafe Mobile App</h3>
+            <p>A comprehensive mobile app design project for a coffee shop, showcasing my UI/UX design skills.</p>
+            <img src="path/to/image.jpg" alt="Screenshot of Pracs Cafe Mobile App showcasing the user interface">
+            <a href="link-to-prototype" class="btn">View Prototype</a>
+        </div>
+    </section>
+
+    <section id="blog">
+        <h2>Blog</h2>
+        <article>
+            <h3>Title of Your Blog Post</h3>
+            <p>Summary of the blog post...</p>
+            <a href="link-to-full-post" class="btn">Read More</a>
+        </article>
+    </section>
+
+    <section id="newsletter">
+        <h2>Subscribe to My Newsletter</h2>
+        <form>
+            <input type="email" placeholder="Your Email" required>
+            <button type="submit">Subscribe</button>
+        </form>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <form id="contact-form">
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2023 Phillip Bere. All rights reserved.</p>
+        <p>Contact: <a href="mailto:phillipbere009@gmail.com">phillipbere009@gmail.com</a> | Phone: +27 84 970 2554</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/phillip-bere">linkedin.com/in/phillip-bere</a></p>
+    </footer>
+</body>
+</html>
